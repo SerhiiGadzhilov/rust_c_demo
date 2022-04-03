@@ -1,3 +1,9 @@
+extern "C" {
+    pub fn demo_method();
+}
+
 fn main() {
-    println!("Hello, world!");
+    unsafe{
+        demo_method();
+    }
 }
