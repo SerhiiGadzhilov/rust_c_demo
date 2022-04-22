@@ -34,5 +34,5 @@ unsafe {
 ```
 
 ## For more information
-https://docs.rust-embedded.org/book/interoperability/c-with-rust.html
-https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html
+1. https://docs.rust-embedded.org/book/interoperability/c-with-rust.html
+2. https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html
